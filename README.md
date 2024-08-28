@@ -10,7 +10,8 @@
 - [Employee.cs](Module02Exercise01/Model/Employee.cs)
 - [EmployeePage.xaml](Module02Exercise01/View/EmployeePage.xaml)
 - [EmployeeViewModel.cs](Module02Exercise01/ViewModel/EmployeeViewModel.cs)
-  
+
+## Test of the App (Before and After)
 ### Output Screenshots
 <p align="center">
     <img src="Screenshots/EmployeePage-1.png" alt="EmployeePage-1" width="270" height="585">

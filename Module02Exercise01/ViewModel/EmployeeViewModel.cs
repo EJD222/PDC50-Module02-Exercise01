@@ -32,7 +32,7 @@ namespace Module02Exercise01.ViewModel
             Employees = new ObservableCollection<Employee>
             {
                 new Employee { FirstName = "Im", LastName = "Nayeon", Position = "Manager", Department = "HR", IsActive=true},
-                new Employee { FirstName = "Yoo", LastName = "Jeonyeon", Position = "Developer", Department = "IT", IsActive=true },
+                new Employee { FirstName = "Yoo", LastName = "Jeongyeon", Position = "Developer", Department = "IT", IsActive=true },
                 new Employee { FirstName = "Hirai", LastName = "Momo", Position = "Designer", Department = "Creative", IsActive=true },
                 new Employee { FirstName = "Minatozaki", LastName = "Sana", Position = "Manager", Department = "Finance", IsActive=true },
                 new Employee { FirstName = "Park", LastName = "Jihyo", Position = "Developer", Department = "Sales", IsActive=true },
